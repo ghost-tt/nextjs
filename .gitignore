@@ -1,9 +1,5 @@
-dummy-backend/node_modules
-dummy-backend/package-lock.json
-
-first-app/.next
-first-app/node_modules
-first-app/package-lock.json
-
-react-crash-course/node_modules
-
+.next
+node_modules
+package-lock.json
+.eslintrc.json
+.gitignore
